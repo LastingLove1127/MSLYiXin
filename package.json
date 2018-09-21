@@ -1,6 +1,6 @@
 {
   "name": "mslyixin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "穆斯林伊信测试版",
   "main": "src/index.js",
   "scripts": {
