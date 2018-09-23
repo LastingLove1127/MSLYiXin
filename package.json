@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "mslyixin",
   "version": "0.0.1",
@@ -31,3 +32,38 @@
     "webpack-cli": "^3.1.0"
   }
 }
+=======
+{
+  "name": "mslyixin",
+  "version": "0.0.2",
+  "description": "穆斯林伊信测试版",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release":"webpack",
+    "example":"http-server -p 8880"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LastingLove1127/MSLYiXin.git"
+  },
+  "keywords": [
+    "伊信"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LastingLove1127/MSLYiXin/issues"
+  },
+  "homepage": "https://github.com/LastingLove1127/MSLYiXin#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.2",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "webpack": "^4.19.1",
+    "webpack-cli": "^3.1.0"
+  }
+}
+>>>>>>> 6d07e0af810a2e056a7fe1d85d1297e385ecce06
